@@ -1,0 +1,194 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sorveteria Cadastro
+</name>
+</assembly>
+<members>
+<member name="T:Sorveteria_Cadastro.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir as propriedades que estão disponíveis em My Namespace para projetos da web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Sorveteria_Cadastro.My.MyWebExtension.Computer">
+ <summary>
+ Retorna informações sobre o computador host.
+ </summary>
+</member>
+<member name="P:Sorveteria_Cadastro.My.MyWebExtension.User">
+ <summary>
+ Retorna informações sobre o usuário atual da web.
+ </summary>
+</member>
+<member name="P:Sorveteria_Cadastro.My.MyWebExtension.Request">
+ <summary>
+ Retorna um objeto Request.
+ </summary>
+</member>
+<member name="P:Sorveteria_Cadastro.My.MyWebExtension.Response">
+ <summary>
+ Retorna um objeto Response.
+ </summary>
+</member>
+<member name="P:Sorveteria_Cadastro.My.MyWebExtension.Log">
+ <summary>
+ Retorna o objeto de log Asp.
+ </summary>
+</member>
+<member name="F:Sorveteria_Cadastro.SiteMaster._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.Site_Mobile._Head1">
+<summary>
+controle Head1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.Site_Mobile._HeadContent">
+<summary>
+Controle HeadContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.Site_Mobile._form1">
+<summary>
+Controle form1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.Site_Mobile._FeaturedContent">
+<summary>
+Controle FeaturedContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.Site_Mobile._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.Site_Mobile._ViewSwitcher1">
+<summary>
+controle ViewSwitcher1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtNome">
+<summary>
+Controle txtNome.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtCidade">
+<summary>
+Controle txtCidade.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtRua">
+<summary>
+Controle txtRua.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtNumero">
+<summary>
+Controle txtNumero.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtTelefone">
+<summary>
+Controle txtTelefone.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtEmail">
+<summary>
+Controle txtEmail.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtSenha">
+<summary>
+Controle txtSenha.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._txtConfirmarSenha">
+<summary>
+Controle txtConfirmarSenha.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._btnCriarConta">
+<summary>
+Controle btnCriarConta.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Sorveteria_Cadastro.WebForm1._btnContaCriada">
+<summary>
+Controle btnContaCriada.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+</members>
+</doc>
